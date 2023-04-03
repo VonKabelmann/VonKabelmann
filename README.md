@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **pontus.ekdahl@gmail.com**
 
+- <span> 💬 You can also contact me on my <a href="https://www.linkedin.com/in/pontus-ekdahl-088a90264/" target="_blank" rel="noreferrer"> Linkedin<a/></span>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
