@@ -8,6 +8,23 @@
 
 - <span> 💬 You can also contact me on my <a href="https://www.linkedin.com/in/pontus-ekdahl-088a90264/" target="_blank" rel="noreferrer"> Linkedin<a/></span>
 
+### My GitHub Portfolio :briefcase:
+<div align="center">
+<br>
+
+| Repo                           | Description                                                   | Tech stack                     |
+| ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
+|[Webbutveckling Labb 2][web2]      |   A webpage for a webshop created as a part of the course 'Webbutveckling med .NET' at IT-Högskolan | HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, MongoDB |
+|[Databaser Labb 3][db3]               | A GUI shop application using MongoDB | C#, WPF, MVVM, JSON & MongoDB|
+|[C# Labb 3][cs3]              | A GUI Quiz application using JSON | C#, WPF, MVVM, JSON|
+
+[web2]: https://github.com/VonKabelmann/Labb2-Webbutveckling-NET22
+[db3]: https://github.com/VonKabelmann/Labb3-Databaser-NET22
+[cs3]: https://github.com/VonKabelmann/Labb3-CSharp-NET22
+
+<br>
+</div>
+    
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
